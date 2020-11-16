@@ -4,7 +4,6 @@ package _4factory_interface.simplefactory.pizzastore.order;
 public class PizzaStore {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		//new OrderPizza();
 
 		//使用简单工厂模式
