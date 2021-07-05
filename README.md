@@ -1,1 +1,1 @@
-> 相关PPT、Word资料：[https://rawchen.com/se/DesignPattern.html](https://rawchen.com/se/DesignPattern.html)
+> 相关PPT、Word资料：[https://yoyling.com/se/DesignPattern.html](https://yoyling.com/se/DesignPattern.html)
